@@ -5,4 +5,4 @@ if a> 0:
 	else :
 		print("Odd")
 else :
-	print("Invalid Input")
+	print("Invalid ")
