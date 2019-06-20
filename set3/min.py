@@ -1,7 +1,4 @@
 n = int(input())
-l=[]
-for i in range(0,n):
-    x=int(input())
-    l.append(x)
-min1=min(l)
+arr=list((map(int, input().split())))
+min1=min(arr)
 print(min1)
