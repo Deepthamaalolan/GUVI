@@ -1,6 +1,7 @@
 n=input()
+n.lower()
 if (n.isalpha()==1):
 	
-	print("yes")
+	print("Alphabet")
 else :
 	print("No")
