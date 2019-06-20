@@ -1,7 +1,4 @@
 n = int(input())
-l=[]
-for i in range(0,n):
-    x=int(input())
-    l.append(x)
-max1=max(l)
+arr=list((map(int, input().split())))
+max1=max(arr)
 print(max1)
