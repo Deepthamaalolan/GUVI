@@ -1,2 +1,2 @@
-n=int(input())
-print(len(str(n)))
+f=int(input())
+print(len(str(f)))
